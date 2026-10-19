@@ -3,6 +3,7 @@ int main (void) {
     double d ;
     double result ;
     scanf("%lf",&d);
-printf("%.2f\n", d * 1.08); 
+    result = d * 1.08;
+printf("%.2f\n", result ); 
 return 0;
 }
