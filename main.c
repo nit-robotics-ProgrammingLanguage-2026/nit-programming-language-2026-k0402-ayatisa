@@ -6,7 +6,7 @@ int main(void) {
     
     scanf("%lf", &d);// double型の入力を受け取る
     
-    ; result = d * 1.08; // 1.08倍を計算
+    result = d * 1.08; // 1.08倍を計算
     
     printf("%.2f\n", result); // 小数点以下2桁で出力
     
