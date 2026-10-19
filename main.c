@@ -10,5 +10,5 @@ int main(void) {
     
     printf("%.2f\n", result); // 小数点以下2桁で出力
     
-    return 0;
+    return 0; 
 }
