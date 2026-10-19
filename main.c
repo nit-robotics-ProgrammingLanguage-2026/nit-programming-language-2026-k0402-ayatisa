@@ -4,7 +4,7 @@ int main(void) {
     double d;          // 入力用の変数を宣言
     double result;     // 計算結果用の変数を宣言
     
-    scanf("%lf", &d);q  // double型の入力を受け取る
+    scanf("%lf", &d);// double型の入力を受け取る
     
     ; result = d * 1.08; // 1.08倍を計算
     
