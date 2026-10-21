@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    double d;
+    double d; 
     double result;
     scanf("%lf",&d);
     result=d * 1.08;
